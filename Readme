@@ -1,1 +1,17 @@
-<h1>EduVista</h1>
+# EduVista - Personalized Tech Learning & Mentorship Platform
+
+EduVista is a comprehensive learning platform designed to mentor students by aligning their educational journey with their interests in the tech world. Through the app, students can select their areas of interest, and EduVista provides a tailored roadmap of courses and learning paths that best suit their goals.
+
+## Key Features
+
+- **Personalized Course Roadmaps:** Based on individual interests, students receive a customized learning path.
+- **Mentorship Connections:** Direct access to mentors for guidance and feedback, enhancing the learning process.
+- **Interactive Learning:** Engaging and practical opportunities, including internships, challenges, and hackathons.
+
+## Getting Started
+
+To get started with the EduVista platform, clone the repository and follow the instructions below.
+
+```bash
+git clone https://github.com/your-username/EduVista.git
+cd EduVista
